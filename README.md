@@ -1,9 +1,7 @@
-# shoppingCart
-## Angular2 (ng2) Shopping Cart
+# Angular2 (ng2) + TypeScript Shopping Cart 
+## Work in progress
 
-Work in progress
-
-Done done:
+Done:
 * Catalog
 * Item Preview
 * Catalog operation - search
