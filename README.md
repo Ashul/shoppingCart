@@ -1,10 +1,15 @@
 # shoppingCart
 ## Angular2 (ng2) Shopping Cart
 
-**My intro to Anguar2** 
+Work in progress
 
-To be done:
+Done done:
 * Catalog
 * Item Preview
-* Catalog operation - filters, search
+* Catalog operation - search
 * Shopping Cart
+* Checkout mock
+
+To be done:
+* Markup
+* Catalog operation - filter
